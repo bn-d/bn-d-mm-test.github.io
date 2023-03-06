@@ -1,5 +1,5 @@
 ---
 title: "ppx_pyformat"
-excerpt: "ppxlib based rewriter inspired by Python string `format()`"
+excerpt: "OCaml ppx rewriter inspired by Python string `format()`"
 redirect_to: https://github.com/bn-d/ppx_pyformat
 ---

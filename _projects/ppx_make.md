@@ -1,5 +1,5 @@
 ---
 title: "ppx_make"
-excerpt: "ppxlib based make deriver"
+excerpt: "OCaml [@@deriving] plugin to generate make functions"
 redirect_to: https://github.com/bn-d/ppx_make
 ---
